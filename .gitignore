@@ -5,3 +5,5 @@ Crimes_-_2001_to_present.csv
 ~$Neighborhood_dictionary.xlsx
 .DS_Store
 .gitignore
+.*
+!/.gitignore
